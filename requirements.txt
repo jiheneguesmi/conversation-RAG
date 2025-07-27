@@ -1,0 +1,10 @@
+streamlit==1.28.0
+langchain==0.1.20
+langchain-cohere==0.1.52
+python-dotenv==1.0.0
+pypdf==3.0.1
+sentence-transformers==2.2.2
+pickle-mixin==1.0.2  # For saving/loading FAISS indexes
+faiss-cpu==1.8.0
+langchain-core==0.1.52
+langchain-community==0.0.38
